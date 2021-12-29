@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+
+.list-movies{
+display: flex;
+flex-wrap: wrap;
+position: relative;
+cursor: pointer;
+
+}
+
+
+.navbar{
+align-items: flex-start;
+justify-items: flex-start;
+background:rgb(214, 229, 255);
+justify-content:space-between;
+margin-bottom: 10px;
+
+ 
+}
+
+.form-inline{
+  display: inline-flex;
+}
+
+
+
